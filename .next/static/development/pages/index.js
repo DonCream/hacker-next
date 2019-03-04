@@ -12746,7 +12746,7 @@ function (_React$Component) {
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!********************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2FWebJelly%2FWebsites%2Fhacker-next%2Fpages%2Findex.jsx ***!
   \********************************************************************************************************************************/
@@ -12769,5 +12769,5 @@ module.exports = dll_87bf9f282be1dbed2757;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]));;
+},[[1,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=index.js.map
